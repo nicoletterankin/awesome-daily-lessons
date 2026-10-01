@@ -19,15 +19,15 @@ The "daily lesson" format is a specific genre: one small, self-contained unit of
 
 ## Daily language lessons
 
-- [The Daily Lesson](https://thedailylesson.com/) — One 5-minute editorial lesson per day in 47 languages. CC-BY-4.0. No streaks, no notifications. Published Cohen's d pilot at [/pilot](https://thedailylesson.com/pilot). Founding Member tier at [$99 lifetime, 50 spots](https://thedailylesson.com/founding-member).
+- [The Daily Lesson](https://thedailylesson.com/) — One 5-minute lesson a day, in 47 translated languages plus English. Lessons are openly licensed (CC BY 4.0) and drafted with AI help. No streaks, no notifications. *(Maintained by the stewards of this list.)*
 - [CoffeeBreak Languages](https://coffeebreaklanguages.com/) — 15-minute audio lessons in French, Spanish, Italian, German, Mandarin, Swedish. Paid subscriptions, free sample lessons.
 - [Language Transfer](https://www.languagetransfer.org/) — Free audio-based listen-and-repeat courses for 10+ languages. Donation-funded.
 - [Innovative Language (X-Pod101)](https://www.innovativelanguage.com/) — Daily podcast-style lessons for 34 languages, freemium.
-- [Duolingo](https://duolingo.com/) — The default, for better or worse. See also: [why some polyglots leave Duolingo](https://thedailylesson.com/alternatives/duolingo).
+- [Duolingo](https://duolingo.com/) — The most widely used language-learning app, built around short gamified daily lessons.
 
 ## Daily reading / vocabulary
 
-- [Word of the Day (Word Orb)](https://wordorb.ai/word-of-the-day) — Free daily word with IPA, etymology, and 47-language translations. No signup.
+- [Word of the Day (Word Orb)](https://wordorb.ai/word-of-the-day) — One word a day with pronunciation, etymology and translations. No signup. *(Maintained by the stewards of this list.)*
 - [Merriam-Webster Word of the Day](https://www.merriam-webster.com/word-of-the-day) — Classic English word-of-the-day newsletter and podcast.
 - [Dictionary.com Word of the Day](https://www.dictionary.com/e/word-of-the-day/) — English word of the day.
 - [A.Word.A.Day (AWAD)](https://wordsmith.org/awad/) — Free daily word newsletter since 1994, 450K+ subscribers.
@@ -66,7 +66,7 @@ The "daily lesson" format is a specific genre: one small, self-contained unit of
 
 ## Vocabulary / dictionary APIs you can build daily lessons on
 
-- [Word Orb](https://wordorb.ai/) — 162K English headwords with IPA, etymology, and 601K cross-language translation pairs across 47 languages. CC-BY-4.0. Free anonymous tier (50 lookups/day/IP). [OpenAPI 3.1 spec](https://wordorb.ai/.well-known/openapi.json).
+- [Word Orb](https://wordorb.ai/) — Dictionary and lesson API for developers: 162,253 AI-assisted English word records and 601,143 translations. Coverage varies by word and language; see [plans and limits](https://wordorb.ai/pricing). [OpenAPI 3.1 spec](https://wordorb.ai/.well-known/openapi.json). *(Maintained by the stewards of this list.)*
 - [Wiktionary API](https://en.wiktionary.org/w/api.php) — The largest openly-licensed dictionary (CC-BY-SA 4.0). Messy to consume programmatically but enormous.
 - [Datamuse](https://www.datamuse.com/api/) — Free word-finding API. Rhymes, synonyms, related words.
 - [Forvo](https://forvo.com/) — Crowdsourced pronunciation dictionary. Paid API.
@@ -86,10 +86,10 @@ The "daily lesson" format is a specific genre: one small, self-contained unit of
 
 These are approaches that claim to be "daily learning" but fall apart under inspection. Listed to help you calibrate.
 
-- **Streaks** — turn learning into a gambling loop. Break your streak once, quit entirely. Well-documented in the behavioral-economics literature.
+- **Streaks** — turn learning into a loss you're trying to avoid. Break the streak once and it's easy to quit entirely.
 - **Push notifications "to keep you on track"** — training your attention to flinch toward your phone is the opposite of learning.
 - **Tap-the-bubble drills without context** — you learn to tap bubbles, not to communicate.
-- **"Binge-learning" platforms** — MasterClass, Blinkist, and similar. Watching 10 hours of lectures in one weekend is not daily learning. See [The Daily Lesson alternatives page](https://thedailylesson.com/alternatives/masterclass) for the comparison.
+- **Binge-learning** — watching 10 hours of lectures in one weekend is not daily learning, however good the lectures are.
 - **Gamified leaderboards** — competing against strangers doesn't cause retention. Retrieval practice does.
 
 ## Contributing
@@ -115,6 +115,6 @@ Entries are descriptions; the listed sites/products retain their own licenses.
 
 ## Stewards
 
-Maintained by [Lesson of the Day, PBC](https://thedailylesson.com) — a Delaware Public Benefit Corporation building open, CC-BY-4.0 daily learning content in 47 languages.
+Maintained by [Lesson of the Day, PBC](https://lotdpbc.com), a California Public Benefit Corporation based in Malibu, California, which makes The Daily Lesson and Word Orb. Entries we make are marked as ours.
 
 If you build a daily-lesson tool, please submit a PR or open an issue — we'd love to link to it.
