@@ -27,7 +27,7 @@ The "daily lesson" format is a specific genre: one small, self-contained unit of
 
 ## Daily reading / vocabulary
 
-- [Word of the Day (Word Orb)](https://wordorb.ai/word-of-the-day) — Free daily word with IPA, etymology, and 47-language translations. No signup.
+- [Word of the Day (Word Orb)](https://wordorb.ai/word-of-the-day) — Daily word with IPA, etymology, and 47-language translations. No signup.
 - [Merriam-Webster Word of the Day](https://www.merriam-webster.com/word-of-the-day) — Classic English word-of-the-day newsletter and podcast.
 - [Dictionary.com Word of the Day](https://www.dictionary.com/e/word-of-the-day/) — English word of the day.
 - [A.Word.A.Day (AWAD)](https://wordsmith.org/awad/) — Free daily word newsletter since 1994, 450K+ subscribers.
